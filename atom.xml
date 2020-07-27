@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinghuiblog.GitHub.io</id>
     <title>幸会</title>
-    <updated>2020-07-27T09:11:12.308Z</updated>
+    <updated>2020-07-27T14:58:43.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinghuiblog.GitHub.io"/>
     <link rel="self" href="https://xinghuiblog.GitHub.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://xinghuiblog.GitHub.io/images/avatar.png</logo>
     <icon>https://xinghuiblog.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 幸会</rights>
+    <entry>
+        <title type="html"><![CDATA[视频图片等格式转换工具：格式工厂]]></title>
+        <id>https://xinghuiblog.GitHub.io/post/shi-pin-tu-pian-deng-ge-shi-zhuan-huan-gong-ju-ge-shi-gong-han/</id>
+        <link href="https://xinghuiblog.GitHub.io/post/shi-pin-tu-pian-deng-ge-shi-zhuan-huan-gong-ju-ge-shi-gong-han/">
+        </link>
+        <updated>2020-07-27T14:54:58.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://xinghuiblog.GitHub.io/post-images/1595861714907.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://xinghuiblog.GitHub.io/post-images/1595861714907.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>有一款老牌业界良心的软件可能真的被我们遗忘了，那就是格式工厂。格式工厂(Format Factory)是由上海格式工厂网络有限公司创立于2008年2月，是面向全球用户的互联网软件。</p>
+<!-- more -->
+<figure data-type="image" tabindex="2"><img src="https://xinghuiblog.GitHub.io/post-images/1595861776996.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>格式工厂现在已经不仅仅是视频转换工具了，可以视频去水印、视频剪裁合并、音视频分离等，还能对音频、图片、文档进行格式转换。PDF转Word、PDF转Excel等都可以实现。喜欢玩碟片的朋友也可以用格式工厂进行音频提取、镜像制作等操作。</p>
+<!-- more -->
+<figure data-type="image" tabindex="3"><img src="https://xinghuiblog.GitHub.io/post-images/1595861825234.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>格式工厂发展至今，已经成为全球领先的视频图片等格式转换客户端。格式工厂致力于帮用户更好的解决文件使用问题，现拥有在音乐、视频、图片等领域庞大的忠实用户，在该软件行业内位于领先地位，并保持高速发展趋势。</p>
+<!-- more -->
+<p>下载地址：http://www.pcfreetime.com/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全网音乐播放器：Listen1]]></title>
         <id>https://xinghuiblog.GitHub.io/post/quan-wang-yin-le-bo-fang-qi-listen1/</id>
