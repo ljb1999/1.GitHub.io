@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinghuiblog.GitHub.io</id>
     <title>幸会</title>
-    <updated>2020-07-27T09:00:37.259Z</updated>
+    <updated>2020-07-27T09:07:28.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinghuiblog.GitHub.io"/>
     <link rel="self" href="https://xinghuiblog.GitHub.io/atom.xml"/>
@@ -10,4 +10,26 @@
     <logo>https://xinghuiblog.GitHub.io/images/avatar.png</logo>
     <icon>https://xinghuiblog.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 幸会</rights>
+    <entry>
+        <title type="html"><![CDATA[全网音乐播放器：Listen1]]></title>
+        <id>https://xinghuiblog.GitHub.io/post/quan-wang-yin-le-bo-fang-qi-listen1/</id>
+        <link href="https://xinghuiblog.GitHub.io/post/quan-wang-yin-le-bo-fang-qi-listen1/">
+        </link>
+        <updated>2020-07-25T09:01:52.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://xinghuiblog.GitHub.io/post-images/1595840560914.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://xinghuiblog.GitHub.io/post-images/1595840560914.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>快把你的音乐播放器都卸载了吧。今天推荐一款同时支持网易云音乐、虾米音乐 、QQ音乐、酷狗音乐、酷我音乐、哔哩哔哩、 咪咕音乐的全网音乐播放器Listen1，下载地址在文章后面。</p>
+<!-- more -->
+<figure data-type="image" tabindex="2"><img src="https://xinghuiblog.GitHub.io/post-images/1595840602840.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>有安卓手机版、Windows电脑版和苹果电脑版等多个版本。歌词搜索、歌词显示、播放列表、歌单等功能等都支持，找歌曲再也不用装多个音乐播放软件啦，喜欢的换赶紧下载吧。</p>
+<!-- more -->
+<p>下载地址：https://pan.baidu.com/s/1CdK_aDGzHgk3-2nWW_7W1w<br>
+提取码：lv3d</p>
+]]></content>
+    </entry>
 </feed>
