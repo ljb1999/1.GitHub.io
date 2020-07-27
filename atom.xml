@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xinghuiblog.GitHub.io</id>
+    <title>幸会</title>
+    <updated>2020-07-27T09:00:37.259Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xinghuiblog.GitHub.io"/>
+    <link rel="self" href="https://xinghuiblog.GitHub.io/atom.xml"/>
+    <subtitle>幸会的个人博客</subtitle>
+    <logo>https://xinghuiblog.GitHub.io/images/avatar.png</logo>
+    <icon>https://xinghuiblog.GitHub.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 幸会</rights>
+</feed>
